@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "name": "json-server",
+      "email": "typicode@gmail.com",
+      "rollno": "12345",
+      "id": 1
+    },
+    {
+      "name": "muna",
+      "email": "muna@gmail.com",
+      "rollno": "12345569",
+      "id": 2
+    },
+    {
+      "name": "muna",
+      "email": "muna@gmail.com",
+      "rollno": "12",
+      "id": 3
+    }
+  ],
+  "register": [
+    {
+      "id": 1,
+      "firstname": "json-server",
+      "lastname": "json-server",
+      "email": "typicode@gmail.com",
+      "password": "12345"
+    },
+    {
+      "firstname": "Swapna",
+      "lastname": "Panda",
+      "email": "swapna@gmail.com",
+      "password": "123123",
+      "id": 2
+    },
+    {
+      "firstname": "muna",
+      "lastname": "patra",
+      "email": "muna@gmail.com",
+      "password": "122345",
+      "id": 3
+    },
+    {
+      "firstname": "csk",
+      "lastname": "csk",
+      "email": "csk@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "email": "muna@gmail.com",
+      "password": "123",
+      "id": 5
+    }
+  ]
+}
